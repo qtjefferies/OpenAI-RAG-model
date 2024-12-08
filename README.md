@@ -9,7 +9,7 @@ The OpenAI-Stock-RAG-Model is a project that leverages OpenAI's Retrieval-Augmen
 - **Prediction Accuracy**: High accuracy in predicting stock information.
 
 ## Requirements
-- **API Key**: You will need to insert your own API key in the `.env` file to run this project.
+- **API Key**: You will need to create a .env file and insert your own API key in the `.env` file to run this project using the OPENAP_API_KEY variable.
 
 ## Installation
 To install the necessary dependencies, run:
